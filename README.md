@@ -14,4 +14,4 @@ The repo for github personal page
 🤝 I’m open to collaborating on projects, especially those involving [mention any specific areas you're interested in].
 💬 Feel free to reach out for discussions, collaborations, or just for a chat about technology and its fascinating possibilities.
 📫 How to reach me: syz1998@upenn.edu
-🔗 Connect with me on [[LinkedIn](https://www.linkedin.com/in/yuzhou-felix-sun-69665a160/)](Your LinkedIn Profile Link).
+🔗 Connect with me on [[LinkedIn](https://www.linkedin.com/in/yuzhou-felix-sun-69665a160/)].
