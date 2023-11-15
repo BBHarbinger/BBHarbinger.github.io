@@ -1,5 +1,4 @@
-# felixyuzhousun.github.io
-The repo for github personal page
+# The repo for github personal page
 
 ## Hello, I'm Felix Sun! 👋
 ### About Me
